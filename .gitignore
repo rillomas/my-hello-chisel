@@ -3,3 +3,6 @@ target
 Hello.anno.json
 Hello.fir
 Hello.v
+db
+incremental_db
+output_files
