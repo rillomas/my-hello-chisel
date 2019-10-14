@@ -1,3 +1,4 @@
+*.bak
 project
 target
 Hello.anno.json
